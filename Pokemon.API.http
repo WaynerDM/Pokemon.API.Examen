@@ -1,0 +1,6 @@
+@Pokemon.API_HostAddress = https://localhost:7211
+
+GET {{Pokemon.API_HostAddress}}api/Pokemon/charizard
+Accept: application/json
+
+###
